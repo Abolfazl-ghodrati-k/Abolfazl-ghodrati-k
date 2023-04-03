@@ -1,8 +1,6 @@
 
-## Other Common Github Profile Sections
+# Hi There, im a Developer🤩😶‍🌫️
 - 👩‍💻 I'm currently working on `my portfolio project`  using react, redux, tailwind
-
-- 🧠 I'm currently learning how to use `typescript`, `remix`, `express`
 
 - 👯‍♀️ I'm looking to collaborate on any front-end projects, also i can help in developing express server's and excited about `typescript` projects.
 
@@ -34,5 +32,5 @@ I love to pull out an output from nothing
 
 I love music and singing
 
-and FUN NEVER STOPS ITS MY DRUG
+and FUN NEVER STOPS ITS MY DRUG(how i leave😁)
 

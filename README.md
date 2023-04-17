@@ -3,10 +3,15 @@
 
 I'm an avid hiker and have summited several peaks in the Pacific Northwest. `FUN`
 
-also im a javascript developer which knows alot stuff about react-ts, next-ts, state managment systems(redux-saga, ...)
+Also im a Typescript - Javascript developer, expert in React, Next, Remix ---> Check repositories for more information
 
-ive done several projects by typescript, react, next or even remix.js
+it has been 3 years that i'm gaining experience as a front-end developer
 
-those were my super powers, oh i also know how to bring up an express server( ive created a fullstack monorepo chat application named shelegram )
-# review
-js,ts,react,next,tailwind,react-bootstrap,socket.io,pwa's,redux,redux-saga,express,docker,mongoDB,postgresql,redis
+Also ive skills in developing Express servers i have done 3 full-stack projects how ever two of them uses Next
+
+# Here is review of my Skill's
+
+JavaScript | TypeScript | React | Next | Remix | Redux-Saga | Zustand | MobX | ReactQuery | TailwindCSS | React Bootstrap | MaterialUI | ChakraUI | Sass | Ajax | Git |
+hls | Socket.io | Express | Docker | MongoDB | redis 
+
+Design patterns | clean code

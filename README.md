@@ -7,7 +7,7 @@ Also im a Typescript - Javascript developer, expert in React, Next, Remix ---> C
 
 it has been 3 years that i'm gaining experience as a front-end developer
 
-and ive skills in developing Express servers; i have done 3 full-stack projects which two of them uses Next
+ ive skills in developing Express servers; i have done 3 full-stack projects which two of them uses Next
 
 # Here is review of my Skill's
 
